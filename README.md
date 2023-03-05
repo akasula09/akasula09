@@ -1,7 +1,6 @@
 
 - 👋 <mark>Hi, I’m @akasula09</mark>
 - 👀 <b>I’m interested in Coding...</b>
-- 🌱 I’m currently learning html ...
 - 💞️ I’m looking to collaborate on Everything ...
 - 📫 How to reach me ...here only
 
