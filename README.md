@@ -1,10 +1,10 @@
-<fieldset>
-- 👋 Hi, I’m @akasula09
+
+- 👋 <mark>Hi, I’m @akasula09</mark>
 - 👀 <b>I’m interested in Coding...</b>
 - 🌱 I’m currently learning html ...
 - 💞️ I’m looking to collaborate on Everything ...
 - 📫 How to reach me ...here only
-  </fieldset>
+
 
 <!---
 akasula09/akasula09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
