@@ -1,8 +1,7 @@
 
 - 👋 <mark>Hi, I’m @akasula09</mark>
-- 👀 <b>I’m interested in Coding...</b>
-- 💞️ I’m looking to collaborate on Everything ...
-- 📫 How to reach me ...here only
+- 👀 <b>I’m interested in Coding... Currently working on a site called Astrallist.com</b>
+
 
 
 <!---
